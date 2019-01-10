@@ -11,4 +11,5 @@
 
 ## Blogs to crawl
 
-- [x] Uber Engineering
+- [x] Uber Engineering (Blogs)
+- [x] Baeldung (Class Curriculum)
