@@ -11,5 +11,7 @@
 
 ## Blogs to crawl
 
-- [x] Uber Engineering (Blogs)
-- [x] Baeldung (Class Curriculum)
+- [x] Uber Engineering (Blogs) | https://eng.uber.com/
+- [x] Baeldung (Class Curriculum) |
+- [ ] Vim Casts | http://vimcasts.org/episodes/
+
